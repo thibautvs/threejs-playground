@@ -9,6 +9,7 @@ Clone the repo. No npm/yarn install required.
 ## Run
 
 Just open `index.html` in a web browser.
+
 Recommended for dev: install the `Live Server` extension of VSCode and click on "Go Live" in the status bar.
 
 ## Notes
