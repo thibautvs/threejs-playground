@@ -46,3 +46,7 @@ Experimenting with Three.js
 - [PixiJS (2D WebGL renderer)](https://www.pixijs.com/)
 - [Vertex (Wikipedia)](<https://en.wikipedia.org/wiki/Vertex_(geometry)>)
 - [Shader (Wikipedia)](https://en.wikipedia.org/wiki/Shader)
+
+## Books
+
+<img src="https://static.packt-cdn.com/products/9781788833288/cover/smaller" alt="Learn Three.js" />
